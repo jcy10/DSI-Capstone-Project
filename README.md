@@ -1,5 +1,6 @@
 # DSI Capstone Project: Building a Movie Recommendation Engine
 By: Yeo Jia Chi (General Assembly Singapore - DSI 11)
+Please visit (https://yeojiachi.wixsite.com/home/capstone)
 
 ## Problem Statement:
 The use of internet movie review databases such as RottenTomatoes.com and IMDB.com, have been extremely useful in helping movie viewers to decide if a particular film title is worth watching. However, as these resources are static in nature, the usefulness of such websites in providing potential film recommendations rely heavily on users actively searching and knowing what they are looking for.
