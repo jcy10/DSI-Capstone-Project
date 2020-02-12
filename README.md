@@ -91,7 +91,7 @@ The best model with a balance between accuracy, precision and recall was NMF. Th
 
 ## Key Findings
 
-The full deployment of this movie recommendation engine development can be found at the following link: https://yeojiachi.wixsite.com/mysite
+The full deployment of this movie recommendation engine development can be found at the following link: https://yeojiachi.wixsite.com/home/capstone
 
 **1) A pure ratings based listing of movie recommendations for each user is not sustainable in the long term (Exploitation vs Exploration)**
 - Given that users generally watch movies once, a recommended movie that is subsequently well received by the user is unlikely to be watched again (i.e., unable to be exploited further).
