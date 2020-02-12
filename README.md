@@ -122,4 +122,3 @@ Like always, further model improvements and website upgrades have to be made to 
 3) Receiving constant updates from internet movie databases
 - An advantage of this movie recommendation system is that because we are not a video content provider, we are not limited to the types of movies which we can recommend to users.
 - By collating the reviews of newly released movies, this movie recommendation system will allow for users to also receive customized recommendations for movies currently screening in cinemas. This is a feature that is currently unavailable on any online video streaming provider.
-# Capstone-Movie-Recommendation-Engine
